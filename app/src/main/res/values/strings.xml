@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TapBack</string>
+    <string name="accessibility_service_label">TapBack Action Helper</string>
+    <string name="accessibility_service_desc">Enables system gestures like screenshot, locking the screen, and opening notification panel when triggered by physical back-tap gestures.</string>
+    <string name="notification_channel_name">TapBack Service</string>
+    <string name="notification_channel_desc">Shows background tap detection status and quick controls.</string>
+    <string name="notification_running_title">TapBack Active</string>
+    <string name="notification_running_text">Listening for rear chassis double and triple taps</string>
+</resources>
